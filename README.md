@@ -10,7 +10,7 @@ El proyecto combina análisis exploratorio, pruebas estadísticas y modelos pred
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MGvK5r8okjuyirq22b4QowtxIuHAUVBj)
 
-[📓 Explorar el notebook](Valuacion_Startups_Notebook_final.ipynb) · [📊 Ver presentación](Presentacion_Valuacion_Startups_Final.pptx.pdf) · [📁 Consultar dataset](global_tech_startups_2026%281%29.csv)
+[📓 Explorar el notebook](Valuacion_Startups_Notebook_final.ipynb) · [📊 Ver presentación](Presentacion_Valuacion_Startups_Final.pptx.pdf) · [📁 Consultar dataset](global_tech_startups_2026.csv)
 
 ## 👩‍💻 Equipo
 
